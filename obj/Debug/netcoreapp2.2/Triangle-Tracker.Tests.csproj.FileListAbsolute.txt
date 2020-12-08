@@ -1,0 +1,4 @@
+C:\Users\Ryland\Desktop\Triangle-Tracker.Solution\Triangle-Tracker.Tests\obj\Debug\netcoreapp2.2\Triangle-Tracker.Tests.csprojAssemblyReference.cache
+C:\Users\Ryland\Desktop\Triangle-Tracker.Solution\Triangle-Tracker.Tests\obj\Debug\netcoreapp2.2\Triangle-Tracker.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ryland\Desktop\Triangle-Tracker.Solution\Triangle-Tracker.Tests\obj\Debug\netcoreapp2.2\Triangle-Tracker.Tests.AssemblyInfoInputs.cache
+C:\Users\Ryland\Desktop\Triangle-Tracker.Solution\Triangle-Tracker.Tests\obj\Debug\netcoreapp2.2\Triangle-Tracker.Tests.AssemblyInfo.cs
